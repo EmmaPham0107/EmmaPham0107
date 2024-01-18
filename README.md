@@ -18,11 +18,15 @@ I'm always looking to enhance my skills and stay updated with the latest trends 
 
 ## 🛠️ Projects
 
-### Project 1: [Project Name]
+### Project 1: Java-Projects 
+
+This project is designed to cover fundamental Java programming concepts, focusing on Object-Oriented Programming. As a QA professional, gaining proficiency in Java is essential for test automation, scripting, and understanding application behavior.
+
+### Project 2: Selenium-Java-Projects
 
 Brief description of the project and your role. Highlight any notable achievements or challenges overcome.
 
-### Project 2: [Project Name]
+### Project 3: RestAssured-Java-Projects
 
 Brief description of the project and your role. Highlight any notable achievements or challenges overcome.
 
