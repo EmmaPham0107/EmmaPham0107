@@ -1,8 +1,8 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Emma 👋
 
 ## About Me
 
-I am a passionate Quality Assurance (QA) professional with a strong foundation in software testing. Holding ISTQB certification, I am committed to ensuring the delivery of high-quality software through effective testing practices.
+I am a passionate Quality Assurance (QA) professional with a strong foundation in software testing and always looking to enhance my skills and stay updated with the latest trends in software testing. Holding ISTQB certification, I am committed to ensuring the delivery of high-quality software through effective testing practices.
 
 ## 🔧 Technologies & Tools
 
@@ -27,7 +27,7 @@ This project serves as a practical guide for Quality Assurance professionals loo
 
 ### Project 3: RestAssured-Java-Projects
 
-Brief description of the project and your role. Highlight any notable achievements or challenges overcome.
+This project is designed to provide a solid foundation for Quality Assurance professionals looking to perform end-to-end testing, covering both web applications using Selenium and RESTful APIs using Rest-Assured. With Junit and Hamcrest, manage and assert test scenarios with ease.
 
 ## 📚 Certifications
 
