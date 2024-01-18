@@ -10,7 +10,6 @@ I am a passionate Quality Assurance (QA) professional with a strong foundation i
 - **Testing Frameworks:** Selenium, TestNG
 - **API Testing:** REST Assured
 - **Version Control:** Git
-- **Automation Tools:** [List any other tools you use]
 
 ## 🌱 I'm Currently Learning
 
@@ -24,7 +23,7 @@ This project is designed to cover fundamental Java programming concepts, focusin
 
 ### Project 2: Selenium-Java-Projects
 
-Brief description of the project and your role. Highlight any notable achievements or challenges overcome.
+This project serves as a practical guide for Quality Assurance professionals looking to harness the power of Selenium WebDriver for web automation and TestNG for effective test management. Enhance your testing capabilities with a scalable and maintainable automation framework.
 
 ### Project 3: RestAssured-Java-Projects
 
@@ -36,14 +35,8 @@ Brief description of the project and your role. Highlight any notable achievemen
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- LinkedIn: https://www.linkedin.com/in/emma-pham/
 
 ## 🤝 Let's Collaborate
 
 I'm open to collaboration on interesting projects or discussions related to QA and software testing. Feel free to reach out!
-
-<!--
-You can add badges, GitHub stats, or any other relevant information to make your README more visually appealing and informative.
--->
-
