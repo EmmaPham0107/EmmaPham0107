@@ -4,6 +4,15 @@
 
 I am a passionate Quality Assurance (QA) professional with a strong foundation in software testing and always looking to enhance my skills and stay updated with the latest trends in software testing. Holding ISTQB certification, I am committed to ensuring the delivery of high-quality software through effective testing practices.
 
+<p align="left">
+        <a href="https://linkedin.com/in/emma-pham/" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                        alt="emma-pham" height="30" width="40" /></a>
+        <a href="https://www.hackerrank.com/profile/oanhptkfx20521" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+                        alt="emma-pham" height="30" width="40" /></a>
+</p>
+
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** Java
@@ -32,10 +41,6 @@ This project is designed to provide a solid foundation for Quality Assurance pro
 ## 📚 Certifications
 
 - ISTQB Certified Tester
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/emma-pham/
 
 ## 🤝 Let's Collaborate
 
